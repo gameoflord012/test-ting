@@ -1,3 +1,6 @@
+## postgres command to seed database
+psql -U your_username -h localhost -d your_database_name -f /BE/init_database.pgsql
+
 ##### CODING TEST
 
 ### BACKEND Part
